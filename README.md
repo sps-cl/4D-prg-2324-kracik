@@ -2,8 +2,6 @@
 
 uvod do prg
 
-S napíšeme další věcičku
-
 uložit:
 
 git add .
