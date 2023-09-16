@@ -1,0 +1,14 @@
+C:\Users\sebvo\OneDrive\Plocha\Úkol\Úkol\obj\Debug\net6.0\Úkol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebvo\OneDrive\Plocha\Úkol\Úkol\obj\Debug\net6.0\Úkol.AssemblyInfoInputs.cache
+C:\Users\sebvo\OneDrive\Plocha\Úkol\Úkol\obj\Debug\net6.0\Úkol.AssemblyInfo.cs
+C:\Users\sebvo\OneDrive\Plocha\Úkol\Úkol\obj\Debug\net6.0\Úkol.csproj.CoreCompileInputs.cache
+C:\Users\sebvo\OneDrive\Plocha\Úkol\Úkol\bin\Debug\net6.0\Úkol.exe
+C:\Users\sebvo\OneDrive\Plocha\Úkol\Úkol\bin\Debug\net6.0\Úkol.deps.json
+C:\Users\sebvo\OneDrive\Plocha\Úkol\Úkol\bin\Debug\net6.0\Úkol.runtimeconfig.json
+C:\Users\sebvo\OneDrive\Plocha\Úkol\Úkol\bin\Debug\net6.0\Úkol.dll
+C:\Users\sebvo\OneDrive\Plocha\Úkol\Úkol\bin\Debug\net6.0\Úkol.pdb
+C:\Users\sebvo\OneDrive\Plocha\Úkol\Úkol\obj\Debug\net6.0\Úkol.dll
+C:\Users\sebvo\OneDrive\Plocha\Úkol\Úkol\obj\Debug\net6.0\refint\Úkol.dll
+C:\Users\sebvo\OneDrive\Plocha\Úkol\Úkol\obj\Debug\net6.0\Úkol.pdb
+C:\Users\sebvo\OneDrive\Plocha\Úkol\Úkol\obj\Debug\net6.0\Úkol.genruntimeconfig.cache
+C:\Users\sebvo\OneDrive\Plocha\Úkol\Úkol\obj\Debug\net6.0\ref\Úkol.dll
