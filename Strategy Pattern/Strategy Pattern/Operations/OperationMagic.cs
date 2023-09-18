@@ -13,7 +13,7 @@ namespace Strategy_Pattern.Operations
         {
             public int Execute(int x, int y)
             {
-                return x * y;
+                return x * y / x;
             }
         }
     }
