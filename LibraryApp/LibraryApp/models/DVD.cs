@@ -8,17 +8,17 @@ namespace LibraryApp.models
 {
     internal class DVD : LibraryItem<DVD>
     {
-        public int LenghtOfTrack { get; }
-        public string Author { get; }
+        public string Director { get; }
 
-        public DVD(int LenghtOfTrack, string Author, int id, string Title) : base(id, Title)
+        public DVD(string Director, int id, string Title) : base(id, Title)
         {
-            this.LenghtOfTrack = LenghtOfTrack;
-            this.Author = Author;
+            this.Director = Director;
         }
+
         public override void DisplayInfo()
         {
-            Console.WriteLine($"Autor {Author} a délka skladby: {LenghtOfTrack}");
+            Console.WriteLine($"Autor {Director}");
         }
+
     }
 }
