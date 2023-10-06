@@ -1,0 +1,14 @@
+C:\PRG\4D-prg-2324-kracik\03_Event_Managment_System\03_Event_Managment_System\obj\Debug\net7.0\03_Event_Managment_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRG\4D-prg-2324-kracik\03_Event_Managment_System\03_Event_Managment_System\obj\Debug\net7.0\03_Event_Managment_System.AssemblyInfoInputs.cache
+C:\PRG\4D-prg-2324-kracik\03_Event_Managment_System\03_Event_Managment_System\obj\Debug\net7.0\03_Event_Managment_System.AssemblyInfo.cs
+C:\PRG\4D-prg-2324-kracik\03_Event_Managment_System\03_Event_Managment_System\obj\Debug\net7.0\03_Event_Managment_System.csproj.CoreCompileInputs.cache
+C:\PRG\4D-prg-2324-kracik\03_Event_Managment_System\03_Event_Managment_System\bin\Debug\net7.0\03_Event_Managment_System.exe
+C:\PRG\4D-prg-2324-kracik\03_Event_Managment_System\03_Event_Managment_System\bin\Debug\net7.0\03_Event_Managment_System.deps.json
+C:\PRG\4D-prg-2324-kracik\03_Event_Managment_System\03_Event_Managment_System\bin\Debug\net7.0\03_Event_Managment_System.runtimeconfig.json
+C:\PRG\4D-prg-2324-kracik\03_Event_Managment_System\03_Event_Managment_System\bin\Debug\net7.0\03_Event_Managment_System.dll
+C:\PRG\4D-prg-2324-kracik\03_Event_Managment_System\03_Event_Managment_System\bin\Debug\net7.0\03_Event_Managment_System.pdb
+C:\PRG\4D-prg-2324-kracik\03_Event_Managment_System\03_Event_Managment_System\obj\Debug\net7.0\03_Event_Managment_System.dll
+C:\PRG\4D-prg-2324-kracik\03_Event_Managment_System\03_Event_Managment_System\obj\Debug\net7.0\refint\03_Event_Managment_System.dll
+C:\PRG\4D-prg-2324-kracik\03_Event_Managment_System\03_Event_Managment_System\obj\Debug\net7.0\03_Event_Managment_System.pdb
+C:\PRG\4D-prg-2324-kracik\03_Event_Managment_System\03_Event_Managment_System\obj\Debug\net7.0\03_Event_Managment_System.genruntimeconfig.cache
+C:\PRG\4D-prg-2324-kracik\03_Event_Managment_System\03_Event_Managment_System\obj\Debug\net7.0\ref\03_Event_Managment_System.dll
