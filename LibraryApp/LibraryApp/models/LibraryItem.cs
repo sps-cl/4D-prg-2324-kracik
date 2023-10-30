@@ -8,8 +8,8 @@ namespace LibraryApp.models
 {
     internal abstract class LibraryItem<T>
     {
-        private int ID { get; }
-        private string Title { get; }
+        public int ID { get; }
+        public string Title { get; }
         public bool IsAvaiable { get; set; }
 
         public LibraryItem(int id, string Title) 
