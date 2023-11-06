@@ -1,0 +1,25 @@
+.yellowBackground {
+    font-size: 2em;
+    background-color: yellow;
+}
+
+div {
+    margin: 20px 30px 40px 50px;
+    padding: 20px 30px 40px 50px;
+    border: 4px dashed crimson ;
+    border-bottom: 7px dotted green;
+    text-align: center;
+    display: none;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+#p1 {
+    background-color: red;
+}
+
+.yellowBackground:hover {
+    background-color: azure;
+}
