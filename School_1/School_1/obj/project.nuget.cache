@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6/blBTxRVWpVZU3j/fLSuvum72hgbGH3mClFNzrBmDNIa6XQw2Jr3GzdrCa2BCmPud2YJE83HsEkoHcY57XGxA==",
+  "success": true,
+  "projectFilePath": "R:\\4.D\\PRG\\Programy\\4D-prg-2324-kracik\\School_1\\School_1\\School_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebastian.kracik\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\sebastian.kracik\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\sebastian.kracik\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
