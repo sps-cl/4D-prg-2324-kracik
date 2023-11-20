@@ -21,39 +21,67 @@ namespace School_1
     /// </summary>
     public partial class MainWindow : Window
     {
-        public List<User> _User = new List<User>();
+        public List<UserChild> _User = new List<UserChild>();
         public MainWindow()
         {
             InitializeComponent();
-            _User.Add(new User() { Id = Guid.NewGuid(), Email = "Test@email.cz" , Name = "Vašek" });
-            _User.Add(new User() { Id = Guid.NewGuid(), Email = "Test1@email.cz", Name = "Marek" });
-            _User.Add(new User() { Id = Guid.NewGuid(), Email = "Test2@email.cz", Name = "Jiří" });
+
+            //User user = new User();
+            //user.DoSomething();
+
+            //_User.Add(new User() { Id = Guid.NewGuid(), Email = "Test@email.cz" , Name = "Vašek" });
+            //_User.Add(new User() { Id = Guid.NewGuid(), Email = "Test1@email.cz", Name = "Marek" });
+            //_User.Add(new User() { Id = Guid.NewGuid(), Email = "Test2@email.cz", Name = "Jiří" });
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Hello world");
 
-            foreach(var item in _User) 
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            _User.Add(new UserChild() { Id = Guid.NewGuid(), Email = EmailBox.Text, Name = NameBox.Text, Popis = PopisBox.Text});
+            Refresh();
+        }
+
+        public void Refresh()
+        {
+            try
             {
-                TreeViewItem treeitem = new TreeViewItem();
 
-                treeitem.Header = item.Name;
+                MyTree.Items.Clear();
 
-                StackPanel stack = new StackPanel();
-                stack.Orientation = Orientation.Horizontal;
+                foreach (var item in _User)
+                {
+                    TreeViewItem treeitem = new TreeViewItem();
 
-                Label label0 = new Label();
-                label0.Content = item.Email;
-                stack.Children.Add(label0);
+                    treeitem.Header = item.Name;
 
-                Label label1 = new Label();
-                label1.Content = item.Id.ToString();
-                stack.Children.Add(label1);
+                    StackPanel stack = new StackPanel();
+                    stack.Orientation = Orientation.Horizontal;
 
-                treeitem.Items.Add(stack);
-                
-                MyTree.Items.Add(treeitem);
+                    Label label0 = new Label();
+                    label0.Content = item.Email;
+                    stack.Children.Add(label0);
+
+                    Label label1 = new Label();
+                    label1.Content = item.Id.ToString();
+                    stack.Children.Add(label1);
+
+                    Label label2 = new Label();
+                    label1.Content = item.Popis;
+                    stack.Children.Add(label2);
+
+                    treeitem.Items.Add(stack);
+
+                    MyTree.Items.Add(treeitem);
+                }
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
             }
         }
     }
