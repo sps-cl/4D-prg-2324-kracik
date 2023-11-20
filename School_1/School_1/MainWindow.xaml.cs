@@ -71,7 +71,7 @@ namespace School_1
                     stack.Children.Add(label1);
 
                     Label label2 = new Label();
-                    label1.Content = item.Popis;
+                    label2.Content = item.Popis;
                     stack.Children.Add(label2);
 
                     treeitem.Items.Add(stack);

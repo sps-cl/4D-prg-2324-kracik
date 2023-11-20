@@ -8,7 +8,9 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Content="Button" Margin="663,311,37,66" Click="Button_Click"/>
-        <TreeView x:Name="MyTree" Margin="550,0,0,128"/>
+        <TreeView x:Name="MyTree" Margin="338,10,0,132"  >
+ 
+        </TreeView>
         <TextBox x:Name="EmailBox" HorizontalAlignment="Left" Margin="51,25,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="231"/>
         <TextBox x:Name="NameBox" HorizontalAlignment="Left" Margin="51,55,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="231"/>
         <Button Content="Přidej Uživatele" HorizontalAlignment="Left" Margin="273,0,0,84" Height="32" VerticalAlignment="Bottom" Click="Button_Click_1"/>
