@@ -5,5 +5,5 @@ uvod do prg
 uložit:
 
 git add .
-git commit - m "info"
+git commit -m "info"
 git push
