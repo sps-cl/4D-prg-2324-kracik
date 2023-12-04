@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v7.0": {},
+    ".NETFramework,Version=v7.0/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v7.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\vaclav.kroutil\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "R:\\4.D\\PRG\\Šantrůček\\BlazorProjekt\\Školní\\Školní.csproj",
+      "projectName": "Školní",
+      "projectPath": "R:\\4.D\\PRG\\Šantrůček\\BlazorProjekt\\Školní\\Školní.csproj",
+      "outputPath": "R:\\4.D\\PRG\\Šantrůček\\BlazorProjekt\\Školní\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "net70"
+      ],
+      "frameworks": {
+        "net70": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net70": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
