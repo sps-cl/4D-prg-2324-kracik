@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "R:\\4.D\\PRG\\Šantrůček\\BlazorProjekt\\Školní\\Školní.csproj": {}
+    "R:\\4.D\\PRG\\Programy\\4D-prg-2324-kracik\\Školní\\Školní.csproj": {}
   },
   "projects": {
-    "R:\\4.D\\PRG\\Šantrůček\\BlazorProjekt\\Školní\\Školní.csproj": {
+    "R:\\4.D\\PRG\\Programy\\4D-prg-2324-kracik\\Školní\\Školní.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "R:\\4.D\\PRG\\Šantrůček\\BlazorProjekt\\Školní\\Školní.csproj",
+        "projectUniqueName": "R:\\4.D\\PRG\\Programy\\4D-prg-2324-kracik\\Školní\\Školní.csproj",
         "projectName": "Školní",
-        "projectPath": "R:\\4.D\\PRG\\Šantrůček\\BlazorProjekt\\Školní\\Školní.csproj",
-        "packagesPath": "C:\\Users\\vaclav.kroutil\\.nuget\\packages\\",
-        "outputPath": "R:\\4.D\\PRG\\Šantrůček\\BlazorProjekt\\Školní\\obj\\",
+        "projectPath": "R:\\4.D\\PRG\\Programy\\4D-prg-2324-kracik\\Školní\\Školní.csproj",
+        "packagesPath": "C:\\Users\\sebastian.kracik\\.nuget\\packages\\",
+        "outputPath": "R:\\4.D\\PRG\\Programy\\4D-prg-2324-kracik\\Školní\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vaclav.kroutil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sebastian.kracik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

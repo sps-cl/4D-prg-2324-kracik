@@ -2,7 +2,7 @@
 
 namespace Školní.Data
 {
-    private class ITodoService
+    private class TodoService : ITodoServicies
     {
         List<Todo> _Todo = new List<Todo>();
 
